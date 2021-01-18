@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mehdi/Bureau/C++/TP1/translator.cpp
+fstream
+-
+iostream
+-
+string
+-
+utility
+-
+vector
+-
+
